@@ -71,9 +71,3 @@ No credit card needed
 MIT License — Free to use and share!
 
 ⭐ If this helped you, please star the repo!
-**CTRL+X → Y → Enter** ka dib:
-
-```bash
-git add README.md
-git commit -m "Add beautiful README"
-git push origin main
